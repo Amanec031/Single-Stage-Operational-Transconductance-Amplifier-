@@ -1,1 +1,1 @@
-# Single-Stage-Operational-Transconductance-Amplifier-
+# Single-Stage-Operational-Transconductance-Amplifier
